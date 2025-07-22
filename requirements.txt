@@ -1,7 +1,4 @@
 requests
-pandas
 matplotlib
-plotly
+pandas
 streamlit
-python-dotenv
-pytest
